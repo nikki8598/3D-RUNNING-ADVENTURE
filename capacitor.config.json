@@ -1,0 +1,6 @@
+{
+  "appId": "com.neondash.adventure",
+  "appName": "Neon Dash",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
